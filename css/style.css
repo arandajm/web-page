@@ -221,3 +221,33 @@ header .textos-header {
   font-weight: 300;
   padding-top: 5px;
 }
+
+/* Our services */
+.service {
+  background: #f2f2f2;
+  padding-bottom: 30px;
+}
+
+.servicios {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.servicio {
+  width: 28%;
+}
+
+.servicio img {
+  width: 250px;
+  height: 150px;
+}
+
+.servicio h3 {
+  margin: 10px 0;
+}
+
+.servicio p {
+  font-weight: 300;
+  text-align: justify;
+}
